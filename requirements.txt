@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymilvus
+langchain
+langgraph
+openai
+python-dotenv
+mineru
+pypdf
